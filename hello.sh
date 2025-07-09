@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Anubhav from Jenkins!"
+echo "Hello Anubhav from Jenkins Pipeline!"
